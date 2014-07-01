@@ -1,0 +1,40 @@
+
+
+/* For BOXED Version please uncomment following code
+---------------------------------------- */
+
+/*.body-wrapper {
+	width:1020px;
+	margin:50px auto;
+}
+#menu-wrap,
+#slider-wrapper,
+#slogan-wrapper,
+#slogan,
+#breadcrumb-wrapper {
+	width:940px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#menu-wrap:before,
+#menu-wrap:after {
+	display:block;
+}
+#slogan .slogan-control {
+	left:10px;
+}*/
+
+
+/* For BLOCK Version please uncomment following code
+---------------------------------------- */
+
+/*#header-down {
+	padding:0;
+}
+#main {
+	margin:60px auto;
+	padding:60px 20px;
+	border-radius:20px;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+}*/
